@@ -1,1 +1,1 @@
-FROM gcr.io/istio-release/citadel:release-1.3-latest-daily
+FROM gcr.io/kfserving/pytorchserver:v0.3.0-gpu
