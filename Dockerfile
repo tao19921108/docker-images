@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/gatekeeper:v0.5.0
+FROM gcr.io/kubeflow-images-public/kflogin-ui:v0.5.0
