@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/admission-webhook:vmaster-ge5452b6f
+FROM gcr.io/kubeflow-images-public/kubernetes-sigs/application:1.0-beta
